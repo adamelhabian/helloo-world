@@ -6,3 +6,4 @@ fourth line in feature branch in text.txt
 1
 2
 3
+hello adam 
