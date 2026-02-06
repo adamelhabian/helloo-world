@@ -1,2 +1,4 @@
 first line text.txt
 First line in feature branch in text.txt
+second line in text.txt
+third line in feature branch in text.txt
