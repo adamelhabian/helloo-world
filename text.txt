@@ -3,3 +3,7 @@ First line in feature branch in text.txt
 second line in text.txt
 third line in feature branch in text.txt
 fourth line in feature branch in text.txt
+1
+2
+3
+hello world
