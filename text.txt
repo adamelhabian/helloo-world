@@ -1,9 +1,2 @@
-first line text.txt
-First line in feature branch in text.txt
-second line in text.txt
-third line in feature branch in text.txt
-fourth line in feature branch in text.txt
-1
-2
-3
-hello adam world
+I edit this file and start my file 
+As first line in text.txt in text.txt
