@@ -1,3 +1,4 @@
 I edit this file and start my file 
 As first line in text.txt in text.txt
 Second line in text.txt to try pull
+Third line in text.txt to try pull --rebase
